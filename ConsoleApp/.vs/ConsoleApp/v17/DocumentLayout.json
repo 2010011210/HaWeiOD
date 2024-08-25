@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\utility\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:utility\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\utility\\datastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:utility\\datastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\utility\\treeutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:utility\\treeutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\utility\\stringutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:utility\\stringutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\utility\\linklistutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:utility\\linklistutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\utility\\intutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:utility\\intutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\utility\\dicutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:utility\\dicutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\\u534E\u4E3Aod\u673A\u8003\u8D44\u6599\\consoleprogram\\consoleapp\\utility\\arrayutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1172B9DF-8047-4A76-BE36-214DE8E1F42E}|ConsoleApp.csproj|solutionrelative:utility\\arrayutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 875,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Examination.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\Examination.cs",
+              "RelativeDocumentMoniker": "Utility\\Examination.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\Examination.cs",
+              "RelativeToolTip": "Utility\\Examination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:54:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataStructure.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\DataStructure.cs",
+              "RelativeDocumentMoniker": "Utility\\DataStructure.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\DataStructure.cs",
+              "RelativeToolTip": "Utility\\DataStructure.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAiwBUBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:38:42.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreeUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\TreeUtility.cs",
+              "RelativeDocumentMoniker": "Utility\\TreeUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\TreeUtility.cs",
+              "RelativeToolTip": "Utility\\TreeUtility.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwG8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:44:37.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkListUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\LinkListUtility.cs",
+              "RelativeDocumentMoniker": "Utility\\LinkListUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\LinkListUtility.cs",
+              "RelativeToolTip": "Utility\\LinkListUtility.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:06:34.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DicUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\DicUtility.cs",
+              "RelativeDocumentMoniker": "Utility\\DicUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\DicUtility.cs",
+              "RelativeToolTip": "Utility\\DicUtility.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAA4wHkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:36:00.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IntUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\IntUtility.cs",
+              "RelativeDocumentMoniker": "Utility\\IntUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\IntUtility.cs",
+              "RelativeToolTip": "Utility\\IntUtility.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAjwDMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:39:06.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArrayUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\ArrayUtility.cs",
+              "RelativeDocumentMoniker": "Utility\\ArrayUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\ArrayUtility.cs",
+              "RelativeToolTip": "Utility\\ArrayUtility.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAEwEsBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T05:49:41.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\StringUtility.cs",
+              "RelativeDocumentMoniker": "Utility\\StringUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Utility\\StringUtility.cs",
+              "RelativeToolTip": "Utility\\StringUtility.cs",
+              "ViewState": "AQIAAEICAAAAAAAAAAAMwIUCAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T05:25:57.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\\u534E\u4E3AOD\u673A\u8003\u8D44\u6599\\ConsoleProgram\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T05:24:06.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 355,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

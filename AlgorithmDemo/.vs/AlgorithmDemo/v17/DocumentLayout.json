@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\github\\algorithm\\algorithmdemo\\search\\searchutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|solutionrelative:search\\searchutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6331B5E7-DBF5-4E7D-9552-71714E3FB5A6}|..\\..\\DataStructure\\DataStructure\\DataStructure.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\github\\datastructure\\datastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\github\\algorithm\\algorithmdemo\\recursion\\recursionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|solutionrelative:recursion\\recursionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\github\\algorithm\\algorithmdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\github\\algorithm\\algorithmdemo\\algorithmdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|solutionrelative:algorithmdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\github\\algorithm\\algorithmdemo\\sort\\sortutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|solutionrelative:sort\\sortutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\github\\algorithm\\algorithmdemo\\ratelimit\\slidingwindowratelimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|solutionrelative:ratelimit\\slidingwindowratelimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|c:\\users\\wangcong\\desktop\\\u6587\u4EF6\\github\\algorithm\\algorithmdemo\\regex\\regexutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CCE156-B888-4056-9F2C-E84A86E8538B}|AlgorithmDemo.csproj|solutionrelative:regex\\regexutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 875,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecursionUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Recursion\\RecursionUtility.cs",
+              "RelativeDocumentMoniker": "Recursion\\RecursionUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Recursion\\RecursionUtility.cs",
+              "RelativeToolTip": "Recursion\\RecursionUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:39:29.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Search\\SearchUtility.cs",
+              "RelativeDocumentMoniker": "Search\\SearchUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Search\\SearchUtility.cs",
+              "RelativeToolTip": "Search\\SearchUtility.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4vw4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:55:00.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlgorithmDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\AlgorithmDemo.csproj",
+              "RelativeDocumentMoniker": "AlgorithmDemo.csproj",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\AlgorithmDemo.csproj",
+              "RelativeToolTip": "AlgorithmDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T05:54:12.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\DataStructure\\DataStructure\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataStructure\\DataStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\DataStructure\\DataStructure\\Program.cs",
+              "RelativeToolTip": "..\\..\\DataStructure\\DataStructure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:15:51.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegexUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Regex\\RegexUtility.cs",
+              "RelativeDocumentMoniker": "Regex\\RegexUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Regex\\RegexUtility.cs",
+              "RelativeToolTip": "Regex\\RegexUtility.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-23T01:36:58.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortUtility.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Sort\\SortUtility.cs",
+              "RelativeDocumentMoniker": "Sort\\SortUtility.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Sort\\SortUtility.cs",
+              "RelativeToolTip": "Sort\\SortUtility.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAD4vxYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-22T10:36:56.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SlidingWindowRateLimit.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\RateLimit\\SlidingWindowRateLimit.cs",
+              "RelativeDocumentMoniker": "RateLimit\\SlidingWindowRateLimit.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\RateLimit\\SlidingWindowRateLimit.cs",
+              "RelativeToolTip": "RateLimit\\SlidingWindowRateLimit.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAnwDoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-03T13:06:44.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wangcong\\Desktop\\\u6587\u4EF6\\github\\Algorithm\\AlgorithmDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-03T13:04:33.131Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 355,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
